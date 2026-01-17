@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SellSzen - AI Powered Local Marketplace",
+  "description": "A trust-first, tech-driven local marketplace for India featuring AI-powered listings, smart pricing, and secure escrow transactions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
